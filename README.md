@@ -60,8 +60,8 @@ Welcome to my profile! I'm an 18-year-old builder and student who likes working 
 
 ## 📈 GitHub Stats
 
-![Soham's GitHub Stats](https://github-stats-ajain189.vercel.app/api?username=SohamKela&show_icons=true&theme=aura)
-![Top Languages](https://github-stats-ajain189.vercel.app/api/top-langs/?username=SohamKela&layout=compact&theme=aura&hide=Jupyter%20Notebook,Makefile)
+![Soham's GitHub Stats](https://readme-stats-gilt-six.vercel.app/api?username=SohamKela&show_icons=true&theme=aura)
+![Top Languages](https://readme-stats-gilt-six.vercel.app/api/top-langs/?username=SohamKela&layout=compact&theme=aura&hide=Jupyter%20Notebook,Makefile)
 
 ---
 
