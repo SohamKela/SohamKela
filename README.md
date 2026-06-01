@@ -8,9 +8,7 @@ Welcome to my profile! I'm an incoming UNC Kenan-Flagler student and national aw
 
 - 🎓 Incoming B.S. in Business Administration & Applied Mathematics at the [UNC Kenan-Flagler Business School](https://www.kenan-flagler.unc.edu/).
 - 🏫 Graduate of the [North Carolina School of Science and Mathematics (NCSSM)](https://www.ncssm.edu/).
-- 🔬 Machine Learning Research Intern at **NC State**, building flood-forecasting models for 500k+ Raleigh residents.
-- 📈 Into quantitative research, algorithmic trading, geospatial ML, and anything that mixes math, money, and impact.
-- 🏆 Top 20 USA Finalist & 1st in NC — Stockholm Junior Water Prize · National Merit Finalist · U.S. Presidential Scholars Semifinalist.
+- 📈 Currently learning new technologies and working on applying my skills to real problems.
 - 🌐 Portfolio & more: **[sohamkela.com](https://sohamkela.com)**
 - 📫 Reach me: **sk.sohamkela@gmail.com**
 
@@ -109,8 +107,8 @@ Beyond code, I run my own **photography business** (events, portraits, automotiv
 
 ## 📫 Connect with Me
 
-- 📧 Email: [sk.sohamkela@gmail.com](mailto:sk.sohamkela@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-sk.sohamkela%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sk.sohamkela@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Kela-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sohamkela)
-- 🌐 [Personal Website](https://sohamkela.com)
+- [![Website](https://img.shields.io/badge/Website-sohamkela.com-2E8B57?style=flat-square&logo=googlechrome&logoColor=white)](https://sohamkela.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate!
