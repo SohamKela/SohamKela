@@ -110,7 +110,7 @@ Beyond code, I run my own **photography business** (events, portraits, automotiv
 
 - 📷 Instagram: [@socam.k](https://instagram.com/socam.k)
 - 🖼️ Portfolio: [sohamkela.com](https://sohamkela.com)
-- 📩 Booking & inquiries welcome:reach out!
+- 📩 Booking & inquiries welcome! Reach out!
 
 ---
 
