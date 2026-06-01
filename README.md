@@ -1,6 +1,6 @@
 # Hi, I'm Soham Kela 👋
 
-Welcome to my profile! I'm an incoming UNC Kenan-Flagler student and national award-winning researcher working at the intersection of **quantitative trading, financial modeling, and applied machine learning**, building things that turn data into real-world decisions.
+Welcome to my profile! I'm an 18-year-old builder and student who likes working where **data, software, and real-world systems** meet. Most of my projects start with a question I can't stop thinking about — where river trash should be intercepted, how far ahead a creek floods, or how markets and R&D decisions move in the real world — and I build the models, maps, and apps around them.
 
 ---
 
@@ -8,7 +8,8 @@ Welcome to my profile! I'm an incoming UNC Kenan-Flagler student and national aw
 
 - 🎓 Incoming B.S. in Business Administration & Applied Mathematics at the [UNC Kenan-Flagler Business School](https://www.kenan-flagler.unc.edu/).
 - 🏫 Graduate of the [North Carolina School of Science and Mathematics (NCSSM)](https://www.ncssm.edu/).
-- 📈 Currently learning new technologies and working on applying my skills to real problems.
+- 🔬 National award-winning researcher working in quantitative research, applied ML, and geospatial systems.
+- 📸 When I'm not building, I'm usually taking photos, reading, or overplaying a song for a week.
 - 🌐 Portfolio & more: **[sohamkela.com](https://sohamkela.com)**
 - 📫 Reach me: **sk.sohamkela@gmail.com**
 
@@ -16,35 +17,51 @@ Welcome to my profile! I'm an incoming UNC Kenan-Flagler student and national aw
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### **Languages & Frontend**
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Mapbox GL](https://img.shields.io/badge/Mapbox_GL-4264FB?style=flat-square&logo=mapbox&logoColor=white)
 
-### **ML & Data Science**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### **Backend & Tools**
+### **Backend, Infra & Tools**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox_GL_JS-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-7E57C2?style=flat-square&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-E91E63?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### **Quant & Analytical**
-![Backtesting](https://img.shields.io/badge/Backtesting-6E40C9?style=flat-square&logoColor=white)
-![Regression Modeling](https://img.shields.io/badge/Regression_Modeling-1F6AE1?style=flat-square&logoColor=white)
-![Time--Series Forecasting](https://img.shields.io/badge/Time--Series_Forecasting-2E8B57?style=flat-square&logoColor=white)
-![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Simulation-DD1100?style=flat-square&logoColor=white)
+### **Data Science & Geospatial**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-4CAF50?style=flat-square&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-5D4037?style=flat-square&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6F00?style=flat-square&logoColor=white)
+![OSMnx](https://img.shields.io/badge/OSMnx-EF5350?style=flat-square&logo=openstreetmap&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-720E9E?style=flat-square&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamKela&show_icons=true&theme=aura)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamKela&layout=compact&theme=aura&hide=Jupyter%20Notebook,Makefile)
+![Soham's GitHub Stats](https://github-stats-ajain189.vercel.app/api?username=SohamKela&show_icons=true&theme=aura)
+![Top Languages](https://github-stats-ajain189.vercel.app/api/top-langs/?username=SohamKela&layout=compact&theme=aura&hide=Jupyter%20Notebook,Makefile)
 
 ---
 
@@ -56,14 +73,6 @@ A geospatial optimization system that ranks high-impact locations for river tras
 - Deployed on an interactive **Mapbox** dashboard with a **Python FastAPI** backend
 - Climate Impact Grand Prize — SMathHacks 2026
 - [grime.world](https://grime.world)
-
----
-
-### ARAM BackBand — Automated Wearable for Back Pain Detection & Relief
-A medical wearable that uses real-time EMG sensing to detect muscle spasms and automatically deliver targeted TENS therapy for lower-back pain relief *(Aug 2024 – Mar 2025)*.
-- Built the hardware prototype integrating **six electrodes** with relay-switching between EMG detection and TENS output
-- Developed the full business plan: market analysis of the **$2.2B chronic back pain space**, competitor benchmarking, **FDA 510(k)** regulatory strategy, IP protection plan, 5-year financials, and a direct-to-consumer GTM
-- **Semi-Finalist — Conrad Challenge 2025**
 
 ---
 
