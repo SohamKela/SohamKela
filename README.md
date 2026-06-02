@@ -71,6 +71,7 @@ Welcome to my profile! I'm an 18-year-old builder and student who likes working 
 A geospatial optimization system that ranks high-impact locations for river trash interception *(Mar 2026 – May 2026)*.
 - Built a multi-parameter scoring model over environmental, hydrological, and census data spanning **108k+ cities across 240 countries**
 - Deployed on an interactive **Mapbox** dashboard with a **Python FastAPI** backend
+- Top 20 USA Finalist & 1st Place North Carolina - Stockholm Junior Water Prize 2026
 - Climate Impact Grand Prize — SMathHacks 2026
 - [grime.world](https://grime.world)
 
