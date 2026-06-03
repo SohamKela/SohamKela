@@ -90,6 +90,8 @@ Machine learning research under Dr. Ranjithan to support municipal flood respons
 - 🥇 **Stockholm Junior Water Prize** — Top 20 USA Finalist & 1st Place North Carolina (2026) · *the world's most prestigious award presented to a high school student for a water-research project*
 - 🎖️ **National Merit Finalist**
 - 🇺🇸 **U.S. Presidential Scholars Semifinalist** (Top 627 nationally)
+- 🔬 **Science Olympiad** — 13 Top 2 medals at interstate Duke/UNC invitationals, states, & regionals in research events
+- 🎗️ **Presidential Volunteer Service Award** — Gold Award recipient for 250+ hours of service
 - 🌎 **Climate Impact Grand Prize** — SMathHacks 2026, out of 200+ NC students
 - 🩺 **Semi-Finalist** — Conrad Challenge 2025
 - 🏅 **DECA** — 2× International Competitor, Int'l Platinum Seal of Excellency, 2× 1st in NC (Hotel Management & Retailing), multiple Top Test & Top Roleplay honors at States/Regionals
