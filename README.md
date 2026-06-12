@@ -71,7 +71,7 @@ Welcome to my profile! I'm an 18-year-old builder and student who likes working 
 A geospatial optimization system that ranks high-impact locations for river trash interception *(Mar 2026 – May 2026)*.
 - Built a multi-parameter scoring model over environmental, hydrological, and census data spanning **108k+ cities across 240 countries**
 - Deployed on an interactive **Mapbox** dashboard with a **Python FastAPI** backend
-- Top 20 USA Finalist & 1st Place North Carolina - Stockholm Junior Water Prize 2026
+- 🥇 1st Place USA & 1st Place North Carolina — Stockholm Junior Water Prize 2026 (advancing to the international competition in Stockholm)
 - Climate Impact Grand Prize — SMathHacks 2026
 - [grime.world](https://grime.world)
 
@@ -87,7 +87,7 @@ Machine learning research under Dr. Ranjithan to support municipal flood respons
 
 ## 🏆 Honors & Awards
 
-- 🥇 **Stockholm Junior Water Prize** — Top 20 USA Finalist & 1st Place North Carolina (2026) · *the world's most prestigious award presented to a high school student for a water-research project*
+- 🥇 **Stockholm Junior Water Prize** — 1st Place USA & 1st Place North Carolina (2026), advancing to the international competition in Stockholm · *the world's most prestigious award presented to a high school student for a water-research project*
 - 🎖️ **National Merit Finalist**
 - 🇺🇸 **U.S. Presidential Scholars Semifinalist** (Top 627 nationally)
 - 🎗️ **Presidential Volunteer Service Gold Award** — Gold Award recipient for 250+ hours of service
