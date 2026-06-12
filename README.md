@@ -67,7 +67,7 @@ Welcome to my profile! I'm an 18-year-old builder and student who likes working 
 
 ## 🧩 Selected Projects
 
-### [GRIME — Garbage River Interception & Modeling Engine](https://github.com/SohamKela/GRIME)
+### [GRIME — Garbage River Interception & Modeling Engine](https://github.com/1inandy/GRIME)
 A geospatial optimization system that ranks high-impact locations for river trash interception *(Mar 2026 – May 2026)*.
 - Built a multi-parameter scoring model over environmental, hydrological, and census data spanning **108k+ cities across 240 countries**
 - Deployed on an interactive **Mapbox** dashboard with a **Python FastAPI** backend
