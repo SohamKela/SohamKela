@@ -1,12 +1,12 @@
 # Soham Kela
 
-I build where data, software, and markets meet — quantitative finance, geospatial modeling, applied ML, and native apps. Studying Business Administration & Applied Mathematics at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/); graduate of [NCSSM](https://www.ncssm.edu/).
+I build where data, software, and markets meet: quantitative finance, geospatial modeling, applied ML, and native apps. Studying Business Administration & Applied Mathematics at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/); graduate of [NCSSM](https://www.ncssm.edu/).
 
 ## Selected Work
 
-**[GRIME](https://github.com/1inandy/GRIME)** — Geospatial optimization engine that ranks high-impact locations for river trash interception across 108k+ cities in 240 countries. Mapbox dashboard + FastAPI backend, live at [grime.world](https://grime.world). 1st Place USA, Stockholm Junior Water Prize 2026; international finalist in Stockholm.
+**[GRIME](https://github.com/1inandy/GRIME)** · Equity-weighted geospatial framework for siting river trash interceptors. Scores 89K+ locations across 195 countries on 27 parameters spanning DEM hydrology and Census ACS data, validated against 27 independently sited NC Waterkeeper installations (81.5% agreement) with Monte Carlo sensitivity analysis. Cuts site-planning cost by over 95% versus manual survey. FastAPI backend and interactive Mapbox dashboard, live at [grime.world](https://grime.world). 1st Place USA at the Stockholm Junior Water Prize 2026 and international finalist in Stockholm.
 
-**Crabtree Creek Flood Forecasting** — ML research at NC State under Dr. Ranjithan. Co-developed an Elastic-Net model predicting creek water levels 150 minutes ahead (~0.5 ft MAE, 99 features across 7 USGS sites), presented to the City of Raleigh.
+**Crabtree Creek Flood Forecasting** · ML research at NC State under Dr. Ranjithan. Co-developed an Elastic-Net model that predicts creek water levels 150 minutes ahead (~0.5 ft MAE, 99 features across 7 USGS sites), supporting real-time flood warnings for 500K+ Raleigh residents. Presented to the City of Raleigh.
 
 ## Stack
 
