@@ -2,7 +2,7 @@
 
 I build where data, software, and markets meet: quantitative finance, geospatial modeling, applied ML, and native apps.
 
-**Education:** B.S.B.A. in Business Administration + B.A. in Applied Mathematics at [UNC Chapel Hill](https://www.kenan-flagler.unc.edu/) · Graduate of [NCSSM](https://www.ncssm.edu/)
+**Education:** B.S.B.A. in Business Administration at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/) + B.A. in Applied Mathematics at UNC Chapel Hill · Graduate of [NCSSM](https://www.ncssm.edu/)
 
 ## Selected Work
 
@@ -12,7 +12,11 @@ I build where data, software, and markets meet: quantitative finance, geospatial
 
 ## Experience
 
-**Regeneron Pharmaceuticals** · Business Operations & Innovation Intern: modeled R&D capital allocation and its impact on development timelines, profitability, and shareholder return across the drug pipeline.
+**Carolina Capital Advisory Group (CCAG)** · Investment Banking Analyst, Financial Institutions Group: one of 12 new analysts at UNC's student-run investment banking advisory group, running comps, precedent transactions, and DCF analysis on banks, insurers, and asset managers.
+
+**Carolina BuySide** · Private Equity & Venture Capital Analyst: first-year analyst at UNC's student-run PE and VC organization, sourcing and pitching private companies across growth equity, pre-IPO, and buyouts.
+
+**Regeneron Pharmaceuticals** · Business Operations & Corporate Finance Intern: modeled R&D capital allocation and its impact on development timelines, profitability, and shareholder return across the drug pipeline.
 
 **NC State University** · Machine Learning Research Intern: flood-forecasting research above, in ongoing collaboration with the City of Raleigh.
 
@@ -20,14 +24,14 @@ I build where data, software, and markets meet: quantitative finance, geospatial
 
 ## Honors
 
-1st Place USA, Stockholm Junior Water Prize ($10,000) · Climate Impact Grand Prize, SMathHacks 2026 · National Merit Finalist · U.S. Presidential Scholars Semifinalist (1 of 627 nationally)
+1st Place USA, Stockholm Junior Water Prize ($10,000), and international finalist in Stockholm · Climate Impact Grand Prize, SMathHacks 2026 · National Merit Finalist · U.S. Presidential Scholars Semifinalist (1 of 627 nationally)
 
 ## Stack
 
 **Languages:** Python, Swift, TypeScript
 **Frameworks:** SwiftUI, React, Next.js, FastAPI
 **Data:** NumPy, Pandas, scikit-learn, PyTorch, GeoPandas, Mapbox GL
-**Infra:** Supabase, Firebase, Vercel, Git
+**Infra:** Supabase, Firebase, Vercel, Git, LaTeX
 
 ## Stats
 
