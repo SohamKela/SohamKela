@@ -2,7 +2,7 @@
 
 I build where data, software, and markets meet: quantitative finance, geospatial modeling, applied ML, and native apps.
 
-**Education:** B.S.B.A. in Business Administration at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/) + B.A. in Applied Mathematics at UNC Chapel Hill · Graduate of [NCSSM](https://www.ncssm.edu/)
+**Education:** B.S. in Business Administration at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/) + B.A. in Applied Mathematics at UNC Chapel Hill · Graduate of [NCSSM](https://www.ncssm.edu/)
 
 ## Selected Work
 
