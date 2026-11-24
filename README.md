@@ -1,16 +1,20 @@
 # Soham Kela
 
-I build where data, software, and markets meet: quantitative finance, geospatial modeling, applied ML, and native apps.
+I build where data, software, and markets meet: quantitative finance, geospatial modeling, applied ML, and native apps. Right now I'm cofounder and CEO of [Folie](https://folie.work).
 
 **Education:** B.S. in Business Administration at [UNC Kenan-Flagler](https://www.kenan-flagler.unc.edu/) + B.A. in Applied Mathematics at UNC Chapel Hill · Graduate of [NCSSM](https://www.ncssm.edu/)
 
 ## Selected Work
+
+**[Folie](https://folie.work)** · An AI-native research workspace where a team writes the paper next to everything it's made of: a Markdown/LaTeX manuscript compiled to a real PDF, citations, versioned datasets, figures that stay linked to their data, and a plain-English history. Teams bring their own model (Claude, GPT or Gemini). Next.js on AWS (ECS Fargate, RDS PostgreSQL, S3) with a Tectonic LaTeX compile worker. Cofounded with Abhav Kunchakuri; public beta since November 2026.
 
 **[GRIME](https://github.com/1inandy/GRIME)** · Equity-weighted geospatial framework for siting river trash interceptors. Scores 89K+ locations across 195 countries on 27 parameters spanning DEM hydrology and Census ACS data, validated against 27 independently sited NC Waterkeeper installations (81.5% agreement) with Monte Carlo sensitivity analysis. Cuts site-planning cost by over 95% versus manual survey. FastAPI backend and interactive Mapbox dashboard, live at [grime.world](https://grime.world). 1st Place USA at the Stockholm Junior Water Prize 2026 and international finalist in Stockholm.
 
 **Crabtree Creek Flood Forecasting** · ML research at NC State under Dr. Ranjithan. Co-developed an Elastic-Net model that predicts creek water levels 150 minutes ahead (~0.5 ft MAE, 99 features across 7 USGS sites), supporting real-time flood warnings for 500K+ Raleigh residents. Presented to the City of Raleigh.
 
 ## Experience
+
+**Folie** · Cofounder & CEO: research, outreach and fundraising for the workspace above.
 
 **Carolina Capital Advisory Group (CCAG)** · Investment Banking Analyst, Financial Institutions Group: one of 12 new analysts at UNC's student-run investment banking advisory group, running comps, precedent transactions, and DCF analysis on banks, insurers, and asset managers.
 
@@ -31,7 +35,7 @@ I build where data, software, and markets meet: quantitative finance, geospatial
 **Languages:** Python, Swift, TypeScript
 **Frameworks:** SwiftUI, React, Next.js, FastAPI
 **Data:** NumPy, Pandas, scikit-learn, PyTorch, GeoPandas, Mapbox GL
-**Infra:** Supabase, Firebase, Vercel, Git, LaTeX
+**Infra:** AWS, PostgreSQL, Supabase, Firebase, Vercel, Git, LaTeX
 
 ## Stats
 
